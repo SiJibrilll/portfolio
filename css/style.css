@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800&display=swap');
+
+
+/*--------------------------------- fonts -----------------------------------*/
+.popbold {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700  ;
+}
+
+/*--------------------------------- custom css ------------------------------*/
+.navme {
+    background-color: #31C1FF;
+}
+
+.jumbo {
+	background: linear-gradient(180deg, #31C1FF 0%, #573CFF 95.62%);
+}
+
+.jumbotext {
+    margin-top: 10vh;
+    margin-bottom: 14vh;
+}
+
+.myface {
+    border-radius: 100%;
+    max-width: 40vh;
+    border: 10px solid white;
+}
+
+.mytitle {
+    margin: 10vw;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #1A50DB;
+
+}
+
+.hobicontain {
+    margin-left: 1.5vw;
+}
+
+.hobibigtitle {
+    margin: 10vh;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: white;
+
+}
+
+.hobi {
+    border: 1px solid #000000;
+    box-shadow: 13px 14px 4px rgba(0, 0, 0, 0.56);
+    border-radius: 55px;
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 5vh;
+}
+
+.hobititle {
+    margin-bottom: 5vw;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.ahlicards {
+    margin: 10vw;
+}
+
+.karyacard {
+    margin-top: 10vw;
+    margin-bottom: 10vw;
+}
+
+.karyatitle {
+    margin-top: 7vh;
+    margin-bottom: 5vh;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #1A50DB;
+}
+
+.karyaimg {
+    box-shadow: -13px 11px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 55px;
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+.karyades {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #1A50DB;
+}
+
+.ahli {
+    margin-top: 10vh;
+    max-width: 40%;
+    margin-left: 13vw;
+}
+
+.python {
+    margin-top: 10vh;
+    margin-left: 13vw;
+    width: 30%;
+}
+
+.mar-cen {
+    
+    margin-left: 50%;
+}
+
+/*------------------------------------------ Wave ------------------------------------------*/
+section {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 400px;
+            padding: 100px 10vw;
+        }
+
+.custom-shape-divider-bottom-1669212503 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1669212503 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 117px;
+}
+
+.custom-shape-divider-bottom-1669212503 .shape-fill {
+    fill: #FFFFFF;
+}
+
+
+.custom-shape-divider-top-1669212874 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1669212874 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 178px;
+}
+
+.custom-shape-divider-top-1669212874 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.custom-shape-divider-bottom-1669213769 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1669213769 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 109px;
+}
+
+.custom-shape-divider-bottom-1669213769 .shape-fill {
+    fill: #FFFFFF;
+}
